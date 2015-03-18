@@ -1,0 +1,1 @@
+Currently moves album files to a new directory in a prefixed format
